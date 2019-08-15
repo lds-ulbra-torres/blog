@@ -27,7 +27,7 @@ Mas precisamos que tenha um conhecimento em lógica, o resto é fácil de aprend
 Sim, um time de desenvolvimento de software não é compostos apenas por codificadores,
 por isso você pode partipar sem mexer em códigos, como designers de UI e UX.
 
-##O desafio é
+## O desafio é
 
 Com base nas imagens, e API abaixo:
 
@@ -38,7 +38,7 @@ Com base nas imagens, e API abaixo:
 - [Detalhes] https://swapi.co/api/people/?page=2
 ![detalhes](./detalhes.jpeg)
 
-##Para:
+## Para:
 
 - **Desenvolvedores frontend (mobile ou web)**: criar o front consumindo a API, as lista de pessoas e detalhes de pessoa. O front pode ser construido usando ReactJS, Angular, React Native, Flutter, Android ou swift. Diferenciais que serão avaliados: código limpo, criatividade no desenvolvimento da tela. Clicando no link abaixo você terá acesso aos repositórios para o desafio.
 
@@ -88,8 +88,8 @@ Com base nas imagens, e API abaixo:
 
 O desafio proposto deve ser realizado até 21 de agosto de 2019.
 
+## Contatos:
 
-##Contatos:
 - cassio.huggentobler@rede.ulbra.br
 - daniela.schutt@rede.ulbra.br
 - joziel.santos@rede.ulbra.br

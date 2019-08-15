@@ -44,9 +44,10 @@ const Bio = () => {
         }}
       />
       <p>
-        O <strong>LDS</strong> é o Laboratório de Desenvolvimento de Software da Ulbra Torres,
-        foi criada para que universitários possam adquirir experiências durante o curso,
-        criando software para entidades sem fins lucrativos.
+        O <strong>LDS</strong> é o Laboratório de Desenvolvimento de Software da
+        Ulbra Torres, foi criada para que universitários possam adquirir
+        experiências durante o curso, criando software para entidades sem fins
+        lucrativos.
       </p>
     </div>
   )
