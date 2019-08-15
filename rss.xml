@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 15 Aug 2019 01:00:46 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.  Bora…]]></description><link>https://lds-ulbra.herokuapp.com/como-participar/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/como-participar/</guid><pubDate>Sat, 03 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 15 Aug 2019 01:09:04 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.  Bora…]]></description><link>https://lds-ulbra.herokuapp.com/como-participar/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/como-participar/</guid><pubDate>Sat, 03 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/331ea/sucesso-profissional.png&quot;
+    href=&quot;/blog/static/b7a7474bc6e41076db3c1e74853fb916/331ea/sucesso-profissional.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -18,11 +18,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;evolução&quot;
         title=&quot;evolução&quot;
-        src=&quot;/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/b9e4f/sucesso-profissional.png&quot;
-        srcset=&quot;/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/cf440/sucesso-profissional.png 148w,
-/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/d2d38/sucesso-profissional.png 295w,
-/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/b9e4f/sucesso-profissional.png 590w,
-/lds-ulbra/static/b7a7474bc6e41076db3c1e74853fb916/331ea/sucesso-profissional.png 864w&quot;
+        src=&quot;/blog/static/b7a7474bc6e41076db3c1e74853fb916/b9e4f/sucesso-profissional.png&quot;
+        srcset=&quot;/blog/static/b7a7474bc6e41076db3c1e74853fb916/cf440/sucesso-profissional.png 148w,
+/blog/static/b7a7474bc6e41076db3c1e74853fb916/d2d38/sucesso-profissional.png 295w,
+/blog/static/b7a7474bc6e41076db3c1e74853fb916/b9e4f/sucesso-profissional.png 590w,
+/blog/static/b7a7474bc6e41076db3c1e74853fb916/331ea/sucesso-profissional.png 864w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
@@ -57,12 +57,12 @@ por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&l
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;lista&quot;
         title=&quot;lista&quot;
-        src=&quot;/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg&quot;
-        srcset=&quot;/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/8ee9c/lista.jpg 148w,
-/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/ebbe7/lista.jpg 295w,
-/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg 590w,
-/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/5413e/lista.jpg 885w,
-/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/2f59e/lista.jpg 1056w&quot;
+        src=&quot;/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg&quot;
+        srcset=&quot;/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/8ee9c/lista.jpg 148w,
+/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/ebbe7/lista.jpg 295w,
+/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg 590w,
+/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/5413e/lista.jpg 885w,
+/blog/static/41f54840ad1441c2e35c8cdd1f4f5947/2f59e/lista.jpg 1056w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;&lt;/li&gt;
@@ -79,13 +79,13 @@ por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&l
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;detalhes&quot;
         title=&quot;detalhes&quot;
-        src=&quot;/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg&quot;
-        srcset=&quot;/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/8ee9c/detalhes.jpg 148w,
-/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/ebbe7/detalhes.jpg 295w,
-/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg 590w,
-/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/5413e/detalhes.jpg 885w,
-/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/4efde/detalhes.jpg 1180w,
-/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/313cc/detalhes.jpg 1250w&quot;
+        src=&quot;/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg&quot;
+        srcset=&quot;/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/8ee9c/detalhes.jpg 148w,
+/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/ebbe7/detalhes.jpg 295w,
+/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg 590w,
+/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/5413e/detalhes.jpg 885w,
+/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/4efde/detalhes.jpg 1180w,
+/blog/static/655c73b0eb9fdae14f45b2ee1ddcde74/313cc/detalhes.jpg 1250w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;&lt;/li&gt;
@@ -151,7 +151,7 @@ mesmo que seja mínima. Dado a esta alta demanda…]]></description><link>https:
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/b4133/meme-emprego.jpg&quot;
+    href=&quot;/blog/static/b2d0e555afbdb88d329508e07480ef13/b4133/meme-emprego.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -164,12 +164,12 @@ mesmo que seja mínima. Dado a esta alta demanda…]]></description><link>https:
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Preciso de Emprego&quot;
         title=&quot;Preciso de Emprego&quot;
-        src=&quot;/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/c739e/meme-emprego.jpg&quot;
-        srcset=&quot;/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/8ee9c/meme-emprego.jpg 148w,
-/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/ebbe7/meme-emprego.jpg 295w,
-/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/c739e/meme-emprego.jpg 590w,
-/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/5413e/meme-emprego.jpg 885w,
-/lds-ulbra/static/b2d0e555afbdb88d329508e07480ef13/b4133/meme-emprego.jpg 1080w&quot;
+        src=&quot;/blog/static/b2d0e555afbdb88d329508e07480ef13/c739e/meme-emprego.jpg&quot;
+        srcset=&quot;/blog/static/b2d0e555afbdb88d329508e07480ef13/8ee9c/meme-emprego.jpg 148w,
+/blog/static/b2d0e555afbdb88d329508e07480ef13/ebbe7/meme-emprego.jpg 295w,
+/blog/static/b2d0e555afbdb88d329508e07480ef13/c739e/meme-emprego.jpg 590w,
+/blog/static/b2d0e555afbdb88d329508e07480ef13/5413e/meme-emprego.jpg 885w,
+/blog/static/b2d0e555afbdb88d329508e07480ef13/b4133/meme-emprego.jpg 1080w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;

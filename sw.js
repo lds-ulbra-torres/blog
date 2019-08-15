@@ -26,37 +26,37 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-40326ce14a4324605666.js"
+    "url": "webpack-runtime-fba4d5c972e4ae5f6340.js"
   },
   {
-    "url": "styles.558d6aa7c58f95fa9a25.css"
+    "url": "styles.7029fafbb2e0cf134666.css"
   },
   {
     "url": "styles-652bd96731c07d176141.js"
   },
   {
-    "url": "app-82a9dcb6d68d9adbc983.js"
+    "url": "app-f5a6883a895927f3335b.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-fd7edd369e267dad4496.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "926325832b5985cd713e0739e8f60da7"
+    "revision": "df3d6cd6975f23e09967c3e0e35f9b0b"
   },
   {
-    "url": "component---src-pages-404-js-6193bc9cc18f15d32dad.js"
+    "url": "component---src-pages-404-js-c9c63ccdded12114ce27.js"
   },
   {
     "url": "0-f1e21c12b6f552990213.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "a3d9442de4ad0f76735ff4bcda8809dd"
+    "revision": "a940727f515cc0bb5281e93b9c6f91fd"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "92e9f12a5940cc13a8a8d74301f3bb8d"
+    "revision": "340eee8819c354568130be70c6ff2e4b"
   },
   {
     "url": "manifest.webmanifest",
@@ -82,7 +82,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/lds-ulbra/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/blog/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -154,7 +154,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/lds-ulbra${pathname}`
+        return `/blog${pathname}`
       } else {
         return pathname
       }
