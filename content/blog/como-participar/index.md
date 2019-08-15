@@ -1,17 +1,16 @@
 ---
 title: Como participar do LDS
 date: "2019-08-03T22:40:32.169Z"
-description: "Assim como as empresas de TI estão fazendo, nós também proporcionamos um desafio,
-para avaliarmos e ajudar a evoluir..."
+description: "Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudarmos na sua evolução..."
 ---
 
-Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.
+Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudarmos na sua evolução.
 
 ![evolução](./sucesso-profissional.png)
 
 ## Bora participar do projeto com maior taxa de *empregabilidade*?!!!
 
-Aqui não exigimos experiência, pois é aqui que você adquirá.
+Aqui não exigimos experiência, pois é aqui que você adquirirá.
 Mas precisamos que tenha um conhecimento em lógica, o resto é fácil de aprender.
 
 *Precisamos de pessoas para as seguintes áreas:*
@@ -38,25 +37,37 @@ Com base nas imagens, e API abaixo:
 - [Detalhes] https://swapi.co/api/people/?page=2
 ![detalhes](./detalhes.jpeg)
 
-## Para:
+## Para
 
-- **Desenvolvedores frontend (mobile ou web)**: criar o front consumindo a API, as lista de pessoas e detalhes de pessoa. O front pode ser construido usando ReactJS, Angular, React Native, Flutter, Android ou swift. Diferenciais que serão avaliados: código limpo, criatividade no desenvolvimento da tela. Clicando no link abaixo você terá acesso aos repositórios para o desafio.
+- **Desenvolvedores frontend (mobile ou web)**: criar o front consumindo a API, as lista de pessoas e detalhes de pessoa. O front pode ser construido usando ReactJS, Angular, React Native, Flutter, Android ou swift. Diferenciais que serão avaliados: código limpo, criatividade no desenvolvimento da tela. 
 
-- https://github.com/lds-ulbra-torres/desafio-frontend-reactjs
-- https://github.com/lds-ulbra-torres/desafio-front-angular
-- https://github.com/lds-ulbra-torres/desafio-react-native
-- https://github.com/lds-ulbra-torres/desafio-flutter
-- https://github.com/lds-ulbra-torres/desafio-android
-- https://github.com/lds-ulbra-torres/desafio-swift
+  Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositório da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request.
 
-- **Backend**: com base nos dados da API acima, construir uma api com CRUD(criar, ler, alterar, deletar), pode ser construida utilzando PHP ou Node.js. Diferenciais que serão avaliados: código limpo, padrão de projeto, testes automatizados, docker. Clicando no link abaixo você terá acesso aos repositórios para o desafio.
+      - https://github.com/lds-ulbra-torres/desafio-frontend-reactjs
+      - https://github.com/lds-ulbra-torres/desafio-front-angular
+      - https://github.com/lds-ulbra-torres/desafio-react-native
+      - https://github.com/lds-ulbra-torres/desafio-flutter
+      - https://github.com/lds-ulbra-torres/desafio-android
+      - https://github.com/lds-ulbra-torres/desafio-swift
 
-- https://github.com/lds-ulbra-torres/desafio-backend-nodejs
-- https://github.com/lds-ulbra-torres/desafio-php
+-----------------------
+
+- **Backend**: com base nos dados da API acima, construir uma API com CRUD(criar, ler, alterar, deletar), pode ser construida utilzando PHP ou Node.js. Diferenciais que serão avaliados: código limpo, padrão de projeto, testes automatizados, docker. 
+
+  Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositório da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request:
+
+    - https://github.com/lds-ulbra-torres/desafio-backend-nodejs
+    - https://github.com/lds-ulbra-torres/desafio-php
+
+-----------------------
 
 - **Fullstack**: faça tudo acima.
 
-- **Designers**: sugerir um novo layout para lista de pessoas e detalhes de pessoa.
+-----------------------
+
+- **Designers**: sugerir um novo layout para lista de pessoas e detalhes de pessoa, ao concluir o desafio envie um email para os contatos abaixo, com as telas ou link do protótipo, e um breve comentário sobre o layout sugerido.
+
+-----------------------
 
 - **Testers**:  no sitema http://site-teste-aslave-org-br.umbler.net/#/entradas (login: admin e password: add), fazer o teste dos seguites casos:
 
@@ -67,7 +78,8 @@ Com base nas imagens, e API abaixo:
 
 > **PARA QUE** eu possa lançar o produto no estoque. Saber qual dia e  qual produto entrou e como entrou por datas.
 
- **restrições**
+> **Restrições**
+
 > A lista de itens não sofre update. Apenas insert e delete.
 > fazer um sincroniza lista para quando for feito um update no objeto  entrada, pelo front.
 > o campo tipo de entrada é um int no back. os códigos sao: 1 compra -> 2 doação 
@@ -85,11 +97,18 @@ Com base nas imagens, e API abaixo:
 
 >**PARA QUE** eu possa tirar o produto do estoque e o porquê saiu do estoque. Saber qual dia e qual produto sai por grupo e data.
 
+Ao concluir o desafio envie um email para os contatos abaixo, com evidências(fotos, videos) de possíveis erros ou bugs, e para cada evidências um breve comentário.
 
-O desafio proposto deve ser realizado até 21 de agosto de 2019.
+----------------
 
-## Contatos:
+### Contatos:
 
 - cassio.huggentobler@rede.ulbra.br
 - daniela.schutt@rede.ulbra.br
 - joziel.santos@rede.ulbra.br
+
+------------------------
+
+O desafio proposto deve ser realizado **até 21 de agosto de 2019**.
+
+Bom desafio!!!
