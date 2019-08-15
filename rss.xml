@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 15 Aug 2019 01:41:36 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.  Bora…]]></description><link>https://lds-ulbra.herokuapp.com/como-participar/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/como-participar/</guid><pubDate>Sat, 03 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudar a evoluir.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 15 Aug 2019 01:51:49 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudarmos na sua evolução.  Bora…]]></description><link>https://lds-ulbra.herokuapp.com/como-participar/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/como-participar/</guid><pubDate>Sat, 03 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio para avaliarmos e ajudarmos na sua evolução.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
@@ -28,7 +28,7 @@
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Bora participar do projeto com maior taxa de &lt;em&gt;empregabilidade&lt;/em&gt;?!!!&lt;/h2&gt;
-&lt;p&gt;Aqui não exigimos experiência, pois é aqui que você adquirá.
+&lt;p&gt;Aqui não exigimos experiência, pois é aqui que você adquirirá.
 Mas precisamos que tenha um conhecimento em lógica, o resto é fácil de aprender.&lt;/p&gt;
 &lt;h2&gt;&lt;em&gt;Precisamos de pessoas para as seguintes áreas:&lt;/em&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -94,7 +94,7 @@ por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&l
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Desenvolvedores frontend (mobile ou web)&lt;/strong&gt;: criar o front consumindo a API, as lista de pessoas e detalhes de pessoa. O front pode ser construido usando ReactJS, Angular, React Native, Flutter, Android ou swift. Diferenciais que serão avaliados: código limpo, criatividade no desenvolvimento da tela. &lt;/p&gt;
-&lt;p&gt;Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositória da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request.&lt;/p&gt;
+&lt;p&gt;Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositório da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/lds-ulbra-torres/desafio-frontend-reactjs&quot;&gt;https://github.com/lds-ulbra-torres/desafio-frontend-reactjs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/lds-ulbra-torres/desafio-front-angular&quot;&gt;https://github.com/lds-ulbra-torres/desafio-front-angular&lt;/a&gt;&lt;/li&gt;
@@ -109,7 +109,7 @@ por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&l
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Backend&lt;/strong&gt;: com base nos dados da API acima, construir uma API com CRUD(criar, ler, alterar, deletar), pode ser construida utilzando PHP ou Node.js. Diferenciais que serão avaliados: código limpo, padrão de projeto, testes automatizados, docker. &lt;/p&gt;
-&lt;p&gt;Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositória da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request:&lt;/p&gt;
+&lt;p&gt;Clicando no link abaixo você terá acesso aos repositórios para o desafio, basta escolher o repositório da tecnologia na qual vai implementar o desafio, fazer o fork e ao concluir o desafio fazer um pull request:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/lds-ulbra-torres/desafio-backend-nodejs&quot;&gt;https://github.com/lds-ulbra-torres/desafio-backend-nodejs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/lds-ulbra-torres/desafio-php&quot;&gt;https://github.com/lds-ulbra-torres/desafio-php&lt;/a&gt;&lt;/li&gt;
